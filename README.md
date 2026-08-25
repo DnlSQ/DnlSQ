@@ -20,8 +20,8 @@ Currently open to Software Engineer / .NET Developer opportunities.
 |---|---|
 | [AI-Document-Intelligence](https://github.com/DnlSQ/AI-Document-Intelligence) | Local AI assistant (RAG, Ollama + Qwen 2.5) for processing and retrieving technical documentation |
 | [come-sano-mvp](https://github.com/DnlSQ/come-sano-mvp) | AI-assisted healthy recipe app (MVP), ingredient input, recipe suggestions, calories per portion |
-| [Solucion_InventarioFSv1.2](https://github.com/DnlSQ/Solucion_InventarioFSv1.2) | Inventory management system built with C#/.NET and SQL Server |
-| [Solucion_Salon1](https://github.com/DnlSQ/Solucion_Salon1) | Salon management system (CRUD) built with C#/.NET and layered architecture |
+| [inventory-management-system](https://github.com/DnlSQ/inventory-management-system) | Inventory management system built with C#/.NET and SQL Server |
+| [salon-management-system](https://github.com/DnlSQ/salon-management-system) | Salon management system (CRUD) built with C#/.NET and layered architecture 
 | [DnlSQ.github.io](https://dnlsq.github.io) | My personal portfolio |
 
 ## Background
